@@ -36,6 +36,7 @@ appManager.getModel().forEach(model => console.log(`${model.name}: ${model.secre
 
 ### Convert hex keys to base-32
 
+
 Convert each exported hex key from above using the [hex to base-32 converter](https://totp.danhersam.com/hex-to-base32.html) in this repository.
 
 ### Authy settings
